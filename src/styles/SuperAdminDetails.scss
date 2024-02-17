@@ -1,0 +1,18 @@
+// src/components/SuperAdminDetails.scss
+.super-admin-details {
+    margin-top: 20px;
+  
+    h2 {
+      color: #333;
+    }
+  
+    p {
+      margin-bottom: 8px;
+      font-size: 16px;
+  
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+  }
+  
